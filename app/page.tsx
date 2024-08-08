@@ -1,7 +1,7 @@
 const Home = () => {
   return (
-    <div>
-      Hello
+    <div className="app">
+      Next.js App <a href="/dashboard">Click here to see Dashboard</a>
     </div>
   );
 };
